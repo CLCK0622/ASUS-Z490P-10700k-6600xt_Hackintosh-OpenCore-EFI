@@ -4,7 +4,7 @@
 
 This is an OpenCore EFI for: 
 
-ASUS Prime Z490P + i7 i0700k + AMD RX 6600 XT + RTL 8111 + AX 201 ...
+ASUS Prime Z490P + i7 i0700k + AMD RX 6600 XT + RTL 8111 + AX 200 ...
 
 It can only work on Hackintosh, so you shouldn't try it unless you know about OpenCore Hackintosh. 
 
