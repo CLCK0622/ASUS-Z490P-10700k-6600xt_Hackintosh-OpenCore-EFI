@@ -18,7 +18,7 @@ However, in order to help everyone, you **shouldn't use the origin serial（请�
 
 Moreover, you may need to have your USB customed on your own, depending to your USB status and the hibernation ability. 
 
-My current version of AirportItlwm.kext is macOS 12, and you should replace it with the correct one on your own. 
+My current version of AirportItlwm.kext is for macOS 12, and you should replace it with the correct one on your own. 
 
 ## What can it do?
 
