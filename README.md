@@ -30,4 +30,4 @@ What's more, I use 0C/6C crack for my hibernation, as well as ACPI Patch, and it
 
 Go to the top-right corner then click fork. 
 
-After finishing configuration, create a pull request and I will consider merging it. 
+After finishing configuration, create a pull request, mark what has been changed and I will consider merging it. 
