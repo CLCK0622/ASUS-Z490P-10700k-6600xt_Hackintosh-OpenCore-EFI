@@ -24,7 +24,7 @@ The processor type is set to i9 by default, and you can change it to your own pr
 
 ## What can it do?
 
-This EFI is almost perfect, with a drive for UHD 630 (without video output) and RX 6600 XT (be faked into W6600X). 
+This EFI is almost perfect, with a drive for UHD 630 (with video output) and RX 6600 XT (be faked into W6600X). 
 
 What's more, I use 0C/6C crack for my hibernation, as well as ACPI Patch, and it worked well on most relatively new devices. 
 
