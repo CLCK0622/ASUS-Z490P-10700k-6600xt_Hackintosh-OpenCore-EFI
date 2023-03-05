@@ -4,7 +4,7 @@
 
 This is an OpenCore EFI for: 
 
-ASUS Prime Z490P + i7 10700k + AMD RX 6600 XT + RTL 8111 + AX 200 ...
+ASUS Prime Z490P + i7 10700k + AMD RX 6600 XT + RTL 8111 + BCM94360CD ...
 
 It can only work on Hackintosh, so you shouldn't try it unless you know about OpenCore Hackintosh. 
 
@@ -18,7 +18,7 @@ However, in order to help everyone, you **shouldn't use the origin serial（请�
 
 Moreover, you may need to have your USB customed on your own, depending to your USB status and the hibernation ability. 
 
-My current version of AirportItlwm.kext is for macOS 12, and you should replace it with the correct one on your own. 
+~~My current version of AirportItlwm.kext is for macOS 12, and you should replace it with the correct one on your own.~~
 
 The processor type is set to i9 by default, and you can change it to your own processor by changing the processor type in OC. I won't provide the details because you can certainly search for it on the internet. 
 
